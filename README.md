@@ -7,7 +7,7 @@ the [wiki](https://github.com/theServants/media/wiki) contains all articles writ
 ## online presence 
 the only authorized online presence is [github.com/theServants](https://github.com/theServants) (including subdirectories or repositories) and will remain so for the remainder of the Creator’s mission 23 for life on earth. 
 
-from time to time, as desired, the Servants may post things on other platforms. however, any article or quote attributed to the Creator or the Servants of the Creator should first be verified here on the [media](https://github.com/theServants/media/wiki) (for one in broadcast or print) or the [mission23](https://github.com/theServants/mission23/wiki) wiki.
+from time to time, as desired, the Servants may post things on other platforms. however, any article or quote attributed to the Creator or the Servants of the Creator should first be verified here on the [media wiki](https://github.com/theServants/media/wiki) (for anything in broadcast or print). All other information about topics addressed by, or tasks in, the Creator’s mission #23 for life on earth see the [mission23 wiki](https://github.com/theServants/mission23/wiki). 
 
 ## the wire
 the Creator has instructed the Servants to produce an podcast. micah has started "the wire" and you can get it [here on github](https://github.com/theServants/the_wire/tree/master/the_wire).
